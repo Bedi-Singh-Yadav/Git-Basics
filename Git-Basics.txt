@@ -1,0 +1,26 @@
+$cd Desktop/git/davv_tube/
+$git init #everytime you need to init repo
+$git add *
+$git config --global user.email "anubha@gmail.com"
+$git config --global user.email
+$git config --global user.name Anubha
+$git init
+$git add *
+$git commit -m "Added files for Davv-Tube"
+$git remote add origin https://github.com/AkankshaRathore/Davv_Tube
+$git push origin master
+$git push
+$cd ..
+$git clone https://github.com/AkankshaRathore/Davv_Tube
+$git add *
+$cd Davv_Tube
+$git add *
+$git commit -m "Added files for Davv-Tube"
+$git push origin master
+$git pull
+$git help
+$git help add
+$git status
+
+#if fast forward error is occur then commit all files then pull it
+#
