@@ -1,9 +1,9 @@
 $cd Desktop/git/davv_tube/
 $git init #everytime you need to init repo
 $git add *
-$git config --global user.email "anubha@gmail.com"
+$git config --global user.email "bediyadav.iips@gmail.com"
 $git config --global user.email
-$git config --global user.name Anubha
+$git config --global user.name Bedi-Singh-Yadav
 $git init
 $git add *
 $git commit -m "Added files for Davv-Tube"
@@ -11,11 +11,11 @@ $git remote add origin https://github.com/AkankshaRathore/Davv_Tube
 $git push origin master
 $git push
 $cd ..
-$git clone https://github.com/AkankshaRathore/Davv_Tube
+$git clone https://github.com/BediSinghYadav/Git-Basics
 $git add *
-$cd Davv_Tube
+$cd Deskto/git/git-basics
 $git add *
-$git commit -m "Added files for Davv-Tube"
+$git commit -m "Added file successfully"
 $git push origin master
 $git pull
 $git help
